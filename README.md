@@ -5,7 +5,7 @@ Semester 5 ANN exercises
   - create a user defined single layer neuron
 
 14/08/2025
-  - create a .m file for a single neuron
+  - create a .m file for a single neuron ( https://github.com/cybersonneteer/Artificial-Neural-Networks/blob/main/myNeuron.m )
   - write a matlab program for a 2:2:1 neural network
   - implement the same on python ( https://github.com/cybersonneteer/Artificial-Neural-Networks/blob/main/ann_lab3.ipynb )
     
