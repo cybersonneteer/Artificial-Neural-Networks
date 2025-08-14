@@ -1,7 +1,8 @@
 # Artificial-Neural-Networks
 Semester 5 ANN exercises
 
-
+12/08/2025
+  - create a user defined single layer neuron
 
 14/08/2025
   - create a .m file for a single neuron
